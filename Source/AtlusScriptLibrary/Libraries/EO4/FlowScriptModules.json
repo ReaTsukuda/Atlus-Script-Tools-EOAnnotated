@@ -1,0 +1,8 @@
+[
+  {
+    "Name": "Common library",
+    "ShortName": "Common",
+    "Description": "Non-domain specific commonly used functions.",
+    "FunctionsPath": "EO4\\Modules\\Common\\Functions.json"
+  }
+]

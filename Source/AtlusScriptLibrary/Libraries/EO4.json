@@ -1,0 +1,6 @@
+{
+  "Name": "Etrian Odyssey IV/Sekaiju no Meikyuu IV",
+  "ShortName": "eo4",
+  "FlowScriptModulesPath": "EO4\\FlowScriptModules.json",
+  "MessageScriptLibraryPath": "EO4\\MessageScriptLibrary.json"
+}
